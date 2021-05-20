@@ -1,0 +1,22 @@
+H1{
+    color:#f7ea00;
+    font-family: 'Goblin One';
+    font-size:56px;
+
+}
+
+body{
+    background-color:#903749;
+    font-family: fantasy;
+}
+p{
+    color: #ff7a00;
+    font-size: 25px;
+}
+H1:hover{
+    text-shadow: 2px 2px 5px black;
+
+}
+a{
+    color: #f7ea00;
+}
